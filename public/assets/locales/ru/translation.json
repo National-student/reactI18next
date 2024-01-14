@@ -1,0 +1,6 @@
+{
+    "app_title": "заголовок",
+    "language": "язык",
+    "welcome_message": "Привет",
+    "days_since_birthday": "прошло {{number_of_days}} дней с тех пор"
+}
